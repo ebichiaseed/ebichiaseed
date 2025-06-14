@@ -1,5 +1,5 @@
-# 💫 About Me:
-✈️ Data Science and Analytics undergraduate passionate about leveraging data, design, and automation to improve service workflows and decision-making.<br><br>🎓 Currently deepening my expertise in data analytics, machine learning, and product design. <br><br>🥰 I enjoy transforming complex datasets into actionable insights and intuitive dashboards.<br>
+# Hi there, Erika here!
+✈️ Data Science and Analytics undergraduate passionate about leveraging data, design, and automation.<br><br>🎓 Data & AI Engagement @ National Youth Council <br>
 
 
 # 💻 Tech Stack:
@@ -9,7 +9,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ebichiaseed&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ebichiaseed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ebichiaseed&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
